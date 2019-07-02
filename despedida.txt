@@ -6,4 +6,5 @@
 
 Adios desde git
 otros cambios pero desde despedida
+mas cosas para generar un conflicto
 esto es un texto de preuba
